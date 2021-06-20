@@ -3,8 +3,8 @@ public class binarysearch {
     {
         int a [] = {11,22,33,44,55,66,77,88,99};
         int key = 77;
-        int f = 0;
         System.out.println("Key = "+ key);
+        int f = 0;
         int l = a.length - 1;
         int mid = (f + l)/2;
         while(f<=l)
