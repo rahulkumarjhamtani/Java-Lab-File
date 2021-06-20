@@ -16,7 +16,7 @@ class child2 extends parent2
     }
     public static void main(String args[])
         {
-            child c = new child();
+            child2 c = new child2();
             c.run();
     
         }
