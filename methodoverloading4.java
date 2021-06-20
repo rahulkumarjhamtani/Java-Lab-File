@@ -1,7 +1,23 @@
 public class methodoverloading4  {
-        static void armstrong(int n)
+        static void func(int x)
         {
-            int c=0,a,temp;
+            for(int i=2;i<x;i++)
+            {
+                if(x % i == 0)
+                {
+                    System.out.println("Not a prime number");
+                    break;
+                }
+                else
+                {
+                    System.out.println("Prime number");
+                    break;
+                }
+            }
+        }
+        static void func(double n)
+        {
+            double c=0,a,temp;
             temp=n;
     
             while(n>0)
@@ -17,12 +33,13 @@ public class methodoverloading4  {
         }
         public static void main(String args[])
         {
-            methodoverloading4.armstrong(153);
+            methodoverloading4.func(7, i++);
+            methodoverloading4.func(153.1);
             
     
         }
     }
     
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" armstrong.java          for JAVA file
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" armstrong                for CLASS
+    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" methodoverloading4.java          for JAVA file
+    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" methodoverloading4                for CLASS
 
