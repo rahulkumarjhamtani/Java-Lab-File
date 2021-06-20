@@ -5,8 +5,6 @@ class super_class {
     {
         System.out.println("This is the display method of superclass");
     }
-    
-    
 }
 class sub_class extends super_class
 {
