@@ -11,7 +11,7 @@ public class overloadtypecast {
         public static void main(String args[])
         {
             overloadtypecast obj = new overloadtypecast();
-            obj.sum(10,10);
+            obj.sum(10,20);
             obj.sum(10,20,30);
         }
     }
