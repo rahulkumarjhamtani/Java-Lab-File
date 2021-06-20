@@ -17,7 +17,7 @@ class calc extends calculation
     public void mul(int x,int y)
     {
         z=x*y;
-        System.out.println("Sub = "+z);
+        System.out.println("Mul = "+z);
     }
     public static void main(String args[])
     {
