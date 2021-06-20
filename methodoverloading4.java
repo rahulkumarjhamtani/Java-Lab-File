@@ -33,7 +33,7 @@ public class methodoverloading4  {
         }
         public static void main(String args[])
         {
-            methodoverloading4.func(7, i++);
+            methodoverloading4.func(7);
             methodoverloading4.func(153.1);
             
     

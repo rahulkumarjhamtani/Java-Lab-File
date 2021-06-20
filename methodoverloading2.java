@@ -3,14 +3,14 @@ class adders {
     {
         return a+b;
     }
-    static double add(double d, double e, double f)
+    static double add(double d, double e)
     {
-        return d+e+f;
+        return d+e;
     }
     public static void main(String args[])
     {
         System.out.println(adders.add(10,20));
-        System.out.println(adders.add(10.2,20.2,30.2));
+        System.out.println(adders.add(10.2,20.2));
     }
 }
 
