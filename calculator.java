@@ -37,7 +37,6 @@ class calculator {
             else
             {
                 System.out.println("No such operator");
-
             }
         }
 
