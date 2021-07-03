@@ -13,3 +13,6 @@ class abstractclass1 extends demo{
         obj.run();
     }
 }
+
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" abstractclass1.java          for JAVA file
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" abstractclass1                for CLASS
