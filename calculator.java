@@ -14,6 +14,7 @@ class calculator {
         System.out.println("Press 2 for Subtraction");
         System.out.println("Press 3 for Multiplication");
         System.out.println("Press 4 for Division");
+        System.out.println("Press 5 for Exit");
 
         while (true) {
             System.out.print("Operator ");
@@ -33,6 +34,10 @@ class calculator {
             else if(op == 4)
             {
                 System.out.println("Division is "+(num1 / num2));
+            }
+            else if(op == 5)
+            {
+                return;
             }
             else
             {
