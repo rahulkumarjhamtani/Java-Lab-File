@@ -37,6 +37,7 @@ class calculator {
             }
             else if(op == 5)
             {
+                System.out.println("Thank You for using it :)");
                 return;
             }
             else
