@@ -50,7 +50,7 @@ class singlylinklist {
     {
         Node currNode = list.head;
     
-        System.out.print("singlylinklist: ");
+        System.out.print("List : ");
     
         // Traverse through the singlylinklist
         while (currNode != null) {
