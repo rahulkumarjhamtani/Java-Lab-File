@@ -19,6 +19,6 @@ class interface5 implements showtable.message
     }
 }
 
-// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" interface4.java          for JAVA file
-// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" interface4              for CLASS
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" interface5.java          for JAVA file
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" interface5              for CLASS
 

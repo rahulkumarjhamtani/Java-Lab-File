@@ -1,4 +1,4 @@
-class student {
+class student2 {
     int id;
     String name;
 
@@ -8,8 +8,8 @@ class student {
     }
     public static void main(String args[])
     {
-        student s1 = new student();        
-        student s2 = new student();
+        student2 s1 = new student2();        
+        student2 s2 = new student2();
         
         s1.display();
         s2.display();
@@ -18,5 +18,5 @@ class student {
     
 }
 
- // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" defaultconstructor2.java     for JAVA file
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" student               for CLASS
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" defaultconstructor2.java     for JAVA file
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" student2               for CLASS
