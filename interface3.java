@@ -1,12 +1,12 @@
-interface printtable
+interface printtable2
 {
     void print();
 }
-interface drawtable
+interface drawtable2
 {
     void draw();
 }
-class interface3 implements printtable,drawtable
+class interface3 implements printtable2,drawtable2
 {
     public void print()
     {
