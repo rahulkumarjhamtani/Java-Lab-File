@@ -7,6 +7,7 @@ class bike {
         
         public static void main(String args[])
         {
+            // contructor will be called when object is initialized
             bike b = new bike();
         } 
         
