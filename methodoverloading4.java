@@ -34,12 +34,10 @@ public class methodoverloading4  {
         public static void main(String args[])
         {
             methodoverloading4.func(7);
-            methodoverloading4.func(153.1);
-            
-    
+            methodoverloading4.func(153.1);    
         }
     }
     
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" methodoverloading4.java          for JAVA file
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" methodoverloading4                for CLASS
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" methodoverloading4.java          for JAVA file
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" methodoverloading4                for CLASS
 
