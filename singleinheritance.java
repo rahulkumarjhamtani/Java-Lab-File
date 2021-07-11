@@ -31,5 +31,6 @@ class calc extends calculation
     }  
 
 }
+
 // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" singleinheritance.java          for JAVA file
 // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" my                for CLASS

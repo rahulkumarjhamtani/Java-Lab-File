@@ -28,5 +28,5 @@ class b extends a
 }
 
 // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" singleinheritance3.java          for JAVA file
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" b                for CLASS
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" b                for CLASS
 

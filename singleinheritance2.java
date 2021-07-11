@@ -32,4 +32,4 @@ class sub_class extends super_class
 }
 
 // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\javac" singleinheritance2.java          for JAVA file
-    // & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" sub_class                for CLASS
+// & "C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin\java" sub_class                for CLASS
