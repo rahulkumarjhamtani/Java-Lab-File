@@ -7,6 +7,7 @@ public class exception6 {
         PrintWriter pw;
         try
         {
+            // create a new text file of name exception6.txt
             pw = new PrintWriter("exception6.txt");
             pw.println("saved");
         }
