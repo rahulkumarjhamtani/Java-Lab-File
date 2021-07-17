@@ -5,6 +5,7 @@ public class exception5 {
         {
             int arr[] = {1,3,5,7};
         }
+        // arrary index number exception 
         catch(ArrayIndexOutOfBoundsException e)
         {
             System.out.println(e);
