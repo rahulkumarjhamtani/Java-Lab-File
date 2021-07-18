@@ -5,6 +5,7 @@ public class exception4 {
         {
             int data = 50/0;
         }
+        // arrary index number exception 
         catch(ArrayIndexOutOfBoundsException e)
         {
             System.out.println(e);
