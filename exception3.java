@@ -8,6 +8,7 @@ public class exception3 {
         {
             data = i/j;
         }
+        // arithmetic exception
         catch(ArithmeticException e)
         {
             System.out.println(e);
