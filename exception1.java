@@ -5,6 +5,7 @@ public class exception1 {
         {
             int data = 100/0;
         }
+        // arithmetic exception
         catch(ArithmeticException e)
         {
             System.out.println(e);
