@@ -1,6 +1,7 @@
 public class exception1 {
     public static void main(String args[])
     {
+        // to handle not defined values
         try
         {
             int data = 100/0;
